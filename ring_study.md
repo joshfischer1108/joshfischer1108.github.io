@@ -2,122 +2,37 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
-
-This is a ring study
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+# AWS Connect and Lex Implementation
 
 
-### Definition lists can be used with HTML syntax.
+I played a crucial role in developing and implementing an AI-enabled customer service solution using AWS Connect and Amazon Lex while working with 1904labs. This project led to significant achievements and partnerships.
+## Key Accomplishments
+Major Client Acquisition
+Helped 1904labs secure Ring, an Amazon subsidiary, as their first major client for the AWS Connect-based solution.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+### High-Volume Call Handling
+Implemented a system capable of serving 34 million calls annually, demonstrating the solution's scalability and robustness.
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+### Substantial Cost Savings
+Launched NLP bots at Ring that resulted in $5.5 million in annual cost savings within just 6 months of implementation.
+## Technical Leadership
+### Cross-Team Initiatives
+Led initiatives across multiple teams to develop and enhance AI-enabled customer service solutions.
 
-```
-The final element.
-```
+### AWS Partnerships
+Established strong relationships with internal AWS Lex principal developers and product teams, gaining deep insights into best practices for implementing and running AWS Connect and Lex.
+### Multi-Environment CI/CD: 
+Maintained a complex continuous integration build process spanning five AWS accounts, ensuring seamless deployment and updates across environments.
+
+## Technical Expertise
+### Environment: 
+Worked with Python 3.9, TypeScript, AWS CDK, Brazil, and Amazon Lex.
+
+### Pre-Sales Support: 
+Participated in technical pre-sales calls to validate client needs and build relationships, contributing to business development efforts.
+
+## Team Development
+### Mentorship:
+Coached and mentored developers, data scientists, and designers, fostering skill development and knowledge sharing within the team.
+
